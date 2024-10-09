@@ -1,0 +1,58 @@
+voice_command_map = 
+            "what's' my altitude": "!altitude",
+            "what's my flight plan": "!flightplan",
+            "what's the nearest airport": "!nearestairport",
+            "what's the weather": "!weather",
+            "what's my vertical speed": "!verticalspeed",
+            "where am I": "!positioninfo",
+            "tell me about where I am": "!positioninfo"
+
+
+
+1. !altitude Command
+Description: Fetches the current altitude from LittleNavMap and sends it to Twitch chat and via TTS.
+Activation: Type !altitude in Twitch chat.
+
+2. !flightplan Command
+Description: Fetches the current flight plan from LittleNavMap and sends a summary to Twitch chat and via TTS.
+Activation: Type !flightplan in Twitch chat.
+
+!nearestairport Command
+Description: Fetches and sends the nearest airport to Twitch chat and via TTS.
+Activation: Type !nearestairport in Twitch chat.
+
+4. !weather Command
+Description: Fetches and sends the current weather at the aircraft’s location to Twitch chat and via TTS.
+Activation: Type !weather in Twitch chat.
+
+5. !verticalspeed Command
+Description: Fetches and sends the current vertical speed to Twitch chat and via TTS.
+Activation: Type !verticalspeed in Twitch chat.
+
+6. !positioninfo Command
+Description: Fetches the current position (latitude and longitude) and sends it to Twitch chat. It also asks ChatGPT to provide additional information about the location.
+Activation: Type !positioninfo in Twitch chat
+
+7. !say <message> Command
+Description: Sends a custom message to TTS.
+Activation: Type !say <message> in Twitch chat.
+
+8. !settitle <title> Command
+Description: Changes the Twitch stream title.
+Activation: Type !settitle <title> in Twitch chat (likely limited to the broadcaster or moderators).
+
+9. !setgame <category> Command
+Description: Changes the game category on Twitch.
+Activation: Type !setgame <category> in Twitch chat (likely limited to the broadcaster or moderators).
+
+10. !timeout <user> <duration> Command
+Description: Times out a user for a specific duration.
+Activation: Type !timeout <user> <duration> in Twitch chat (likely limited to moderators).
+
+11. !clearchat Command
+Description: Clears the chat messages.
+Activation: Type !clearchat in Twitch chat (likely limited to moderators).
+
+12. !stats Command
+Description: Fetches current stream statistics (viewers, etc.).
+Activation: Type !stats in Twitch chat.
