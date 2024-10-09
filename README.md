@@ -123,5 +123,8 @@ This ensures that all code adheres to the expected standards and is easy to main
 
 Your_AI_Overlord is designed to be a playful, engaging addition to any flight simulation stream, enhancing interaction with viewers while adding a layer of fun through its distinctive personality.
 
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
 
 
