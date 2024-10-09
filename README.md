@@ -117,17 +117,11 @@ This ensures that all code adheres to the expected standards and is easy to main
 
 ## Credits
 - **Creator**: @grab_your_parachutes, a flight simulation streamer on Twitch.
+- **Creator LittleNavMap** https://github.com/albar965/littlenavmap
 - **Contributors**: Feel free to submit pull requests or issues to improve the bot further.
 
-## License
-Details about licensing can be added here, specifying whether it's open-source (MIT, GPL, etc.) or a proprietary license.
-
----
 
 Your_AI_Overlord is designed to be a playful, engaging addition to any flight simulation stream, enhancing interaction with viewers while adding a layer of fun through its distinctive personality.
 
----
-
-Your_AI_Overlord is designed to be a playful, engaging addition to any flight simulation stream, enhancing interaction with viewers while adding a layer of fun through its distinctive personality.
 
 
