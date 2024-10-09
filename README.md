@@ -58,6 +58,7 @@ The project uses Python with the following key packages and frameworks:
   - `flake8` (v3.9.2) and `black` (v21.6b0) for code formatting and linting.
   - `setuptools` for packaging the bot.
 - **Database**: `pymongo` for MongoDB integration, used for storing user data, bot configurations, and other persistent information.
+- **Text-to-Speech**: Speaker.bot for generating TTS responses during live streams, providing an additional level of engagement for viewers.
 
 ## Installation Guide
 To set up and run Your_AI_Overlord, follow these steps:
